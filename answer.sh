@@ -66,4 +66,8 @@ echo I'm good at Linux commands!
 :wq
 
 # 21. `practice_file1.txt`に書き込んだ内容を出力してください。
+$cat practice_file.txt
+i
 I'm good at Linux commands!
+:
+
